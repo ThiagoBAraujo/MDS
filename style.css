@@ -182,10 +182,10 @@ body {
   padding-left: 5rem;
   margin-bottom: -0.9rem;
 }
-.logo-estrela span::before {
+.logo-estrela::before {
   font-size: 1.4rem;
   color: var(--title-color);
-  content: '\2605';
+  content: '\2605\A0\A0\2605\A0\A0\2605\A0\A0\2605\A0\A0\2605\A0\A0';
 }
 
 .logo-alt span {
